@@ -1,4 +1,4 @@
-MLND Capstone Project Description - Robot Motion Planning
+# MLND Capstone Project Description - Robot Motion Planning
 
 In this project, a robot mouse is tasked with plotting a path from a corner of the maze to its center in two runs.
 
@@ -8,10 +8,10 @@ In the first run, it must enter the goal room at some point during its explorati
 
 Files Explanation:
 
-|- robot.py - This script establishes the robot class. This is the only script that I can modify and work on.
-|- maze.py - This script contains functions for constructing the maze and for checking for walls upon robot movement or sensing.
-|- tester.py - This script will be run to test the robot’s ability to navigate mazes.
-|- showmaze.py - This script can be used to create a visual demonstration of what a maze looks like.
-|- test_maze_##.txt - These files provide sample mazes upon which to test your robot.
+- robot.py - This script establishes the robot class. This is the only script that I can modify and work on.
+- maze.py - This script contains functions for constructing the maze and for checking for walls upon robot movement or sensing.
+- tester.py - This script will be run to test the robot’s ability to navigate mazes.
+- showmaze.py - This script can be used to create a visual demonstration of what a maze looks like.
+- test_maze_##.txt - These files provide sample mazes upon which to test your robot.
 
 
